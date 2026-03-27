@@ -19,3 +19,6 @@ I have no work experience
 
 ##### Education
 I am a high school student
+
+###### English
+Begginer/A1
