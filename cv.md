@@ -10,3 +10,6 @@ My name is Milana. I live in a small village. In my free time I want to do progr
 
 ### Skills
 I completed the basic Python course
+
+#### CODE
+`console.log('Hello world')`
