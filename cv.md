@@ -8,3 +8,5 @@
 ## ABOUT ME:
 My name is Milana. I live in a small village. In my free time I want to do programming.
 
+### Skills
+I completed the basic Python course
