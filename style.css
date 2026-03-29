@@ -1,1 +1,30 @@
-*{}
+body {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+header {
+    background-color: blueviolet;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.menu {
+    color: blanchedalmond;
+    text-decoration: none;
+    transition: color 2s ease;
+}
+
+.menu:hover {
+    color: red;
+}
