@@ -1,23 +1,30 @@
-* {
-    padding: 0;
+body {
+
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
+    background-color: black;
 }
 
-.surname {
-    color: green;
+header {
+    background-color: blueviolet;
 }
 
-.firstname {
-    color: pink;
-}
-
-.wrapper {
+.nav {
     display: flex;
-    position: absolute;
-    top: 150px;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+    font-size: 30px;
+    padding-bottom: 20px;
 }
 
 .menu {
-    color: blue;
+    color: blanchedalmond;
+    text-decoration: none;
+    transition: color 2s ease;
+}
+
+.menu:hover {
+    color: red;
 }
