@@ -13,10 +13,16 @@ header {
 .nav {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    /* gap: 30px; */
     padding-top: 20px;
     font-size: 30px;
     padding-bottom: 20px;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
 }
 
 .menu {
