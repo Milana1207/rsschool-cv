@@ -78,4 +78,9 @@ header {
 
 .description {
     font-size: 25px;
+    margin: 10px;
+}
+
+.skills {
+    margin: 50px;
 }
