@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: blueviolet;
+    background-color: rgb(170, 23, 215);
 }
 
 .nav {
@@ -28,9 +28,40 @@ header {
 .menu {
     color: blanchedalmond;
     text-decoration: none;
-    transition: color 2s ease;
+    transition: color 1s ease;
 }
 
 .menu:hover {
     color: red;
+}
+
+.photo {
+    border-radius: 50%;
+}
+
+.cat_photo {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.surname {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 40px;
+    color: blueviolet;
+
+}
+
+.my_text {
+    color: blueviolet;
+    display: flex
+}
+
+.contacts {
+    font-size: 25px;
+    display: flex;
+    border: ;
+    padding: 100px;
 }
