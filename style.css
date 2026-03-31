@@ -95,7 +95,7 @@ header {
 }
 
 .code {
-    margin: 50px;
+    margin: 20px;
     color: blueviolet;
     display: flex;
     flex-direction: column;
@@ -112,10 +112,23 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 100px;
+    padding-bottom: 20px;
 }
 
 .e {
     font-size: 25px;
     margin: 10px;
+}
+
+.education {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.ed {
+    font-size: 25px;
+    padding: 10px;
 }
