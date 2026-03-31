@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -15,7 +16,6 @@ header {
 .nav {
     display: flex;
     justify-content: center;
-    /* gap: 30px; */
     padding-top: 20px;
     font-size: 30px;
     padding-bottom: 20px;
@@ -95,7 +95,7 @@ header {
 }
 
 .code {
-    margin: 50px;
+    margin: 20px;
     color: blueviolet;
     display: flex;
     flex-direction: column;
@@ -105,4 +105,43 @@ header {
 .rainbow {
     font-size: 30px;
     margin: 10px;
+}
+
+.experience {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.e {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.education {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.ed {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.english {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.language {
+    font-size: 25px;
+    padding: 10px;
 }
