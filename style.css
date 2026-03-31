@@ -132,3 +132,16 @@ header {
     font-size: 25px;
     padding: 10px;
 }
+
+.english {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.language {
+    font-size: 25px;
+    padding: 10px;
+}
