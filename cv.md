@@ -1,0 +1,24 @@
+# SOKOLOVA MILANA
+
+## MY CONTACTS:
++ Phone number: +79090909090
++ email: mih@kkk.com
++ Telegram: @telezhka
+
+## ABOUT ME:
+My name is Milana. I live in a small village. In my free time I want to do programming.
+
+### SKILLS
+I completed the basic Python course
+
+#### CODE
+`console.log('Hello world')`
+
+##### Experience
+I have no work experience
+
+##### Education
+I am a high school student
+
+###### English
+Begginer/A1

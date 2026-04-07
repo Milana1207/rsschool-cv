@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-color: rgb(170, 23, 215);
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+}
+
+.menu {
+    color: blanchedalmond;
+    text-decoration: none;
+    transition: color 1s ease;
+}
+
+.menu:hover {
+    color: red;
+}
+
+.photo {
+    border-radius: 50%;
+}
+
+.cat_photo {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.surname {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: blueviolet;
+    padding-top: 10px;
+}
+
+.my_text {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.contacts {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.about {
+    margin: 50px;
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.description {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.skills {
+    margin: 50px;
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.power {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.code {
+    margin: 20px;
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rainbow {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.experience {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.e {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.education {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.ed {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.english {
+    color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.language {
+    font-size: 25px;
+    padding: 10px;
+}
